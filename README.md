@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Backend and Front developer from Türkiye</h3>
 
 
-- 🌱 I’m currently learning **C#,HTML5,CSS3,JavaScript**
+- 🌱 I’m currently learning **C#,HTML5,CSS3,JavaScript,Lua,React**
 
 - 💬 Ask me about **C#**
 
