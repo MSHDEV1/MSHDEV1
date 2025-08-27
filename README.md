@@ -18,7 +18,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mshdev1&show_icons=true&locale=en" alt="mshdev1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshdev1&" alt="mshdev1" /></p>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
