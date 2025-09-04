@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#,HTML5,CSS3,JavaScript,Lua,React**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **C#** and **Lua**
 
 - 📫 How to reach me **mshdevdevelopment@gmail.com**
 
