@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGSaze2dYqiLw/profile-displaybackgroundimage-shrink_350_1400/B4DZa_SEpSG4AY-/0/1746965909225?e=1752710400&v=beta&t=KBIK6V9tIX3eiu56pSlbKZty9Pte8zavKSeQ12XFqlU)
-
 
 <h1 align="center">Hi 👋, I'm MSHDEV</h1>
 <h3 align="center">A passionate Backend and Front developer from Türkiye</h3>
